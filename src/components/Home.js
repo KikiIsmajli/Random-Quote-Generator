@@ -7,15 +7,17 @@ function Home() {
 
     const fetchQuote = async () => {
         try {
-            const response = await fetch('https://api.quotable.io/random');
+            const response = await fetch('/api/qotd');  // Relative URL
             const data = await response.json();
-            setQuote(data.content);
+            setQuote(data.quote.body);  // Accessing the quote body correctly
         } catch (error) {
+            console.error(error);
             setQuote('Failed to fetch quote. Please try again.');
         }
     };
-
-
+    
+    
+    
     useEffect(() => {
         fetchQuote();
     }, []);
