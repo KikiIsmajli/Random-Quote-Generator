@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.f2b4f123.chunk.css",
     "main.js": "/static/js/main.dc239adc.chunk.js",
     "main.js.map": "/static/js/main.dc239adc.chunk.js.map",
@@ -18,5 +19,16 @@
     "static/js/2.60985f6c.chunk.js",
     "static/css/main.f2b4f123.chunk.css",
     "static/js/main.dc239adc.chunk.js"
+=======
+    "main.css": "/Random-Quote-Generator/static/css/main.84e475bd.css",
+    "main.js": "/Random-Quote-Generator/static/js/main.5c195e2e.js",
+    "index.html": "/Random-Quote-Generator/index.html",
+    "main.84e475bd.css.map": "/Random-Quote-Generator/static/css/main.84e475bd.css.map",
+    "main.5c195e2e.js.map": "/Random-Quote-Generator/static/js/main.5c195e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84e475bd.css",
+    "static/js/main.5c195e2e.js"
+>>>>>>> aefde61c311cb5844a38192be61878abe5c58165
   ]
 }
