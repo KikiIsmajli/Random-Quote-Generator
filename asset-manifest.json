@@ -1,25 +1,5 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/static/css/main.f2b4f123.chunk.css",
-    "main.js": "/static/js/main.dc239adc.chunk.js",
-    "main.js.map": "/static/js/main.dc239adc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.df72bfa8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.df72bfa8.js.map",
-    "static/js/2.60985f6c.chunk.js": "/static/js/2.60985f6c.chunk.js",
-    "static/js/2.60985f6c.chunk.js.map": "/static/js/2.60985f6c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9b06a8fc1390bc408d747976f1c8244a.js": "/precache-manifest.9b06a8fc1390bc408d747976f1c8244a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f2b4f123.chunk.css.map": "/static/css/main.f2b4f123.chunk.css.map",
-    "static/js/2.60985f6c.chunk.js.LICENSE.txt": "/static/js/2.60985f6c.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.df72bfa8.js",
-    "static/js/2.60985f6c.chunk.js",
-    "static/css/main.f2b4f123.chunk.css",
-    "static/js/main.dc239adc.chunk.js"
-=======
     "main.css": "/Random-Quote-Generator/static/css/main.84e475bd.css",
     "main.js": "/Random-Quote-Generator/static/js/main.5c195e2e.js",
     "index.html": "/Random-Quote-Generator/index.html",
@@ -29,6 +9,5 @@
   "entrypoints": [
     "static/css/main.84e475bd.css",
     "static/js/main.5c195e2e.js"
->>>>>>> aefde61c311cb5844a38192be61878abe5c58165
   ]
 }
